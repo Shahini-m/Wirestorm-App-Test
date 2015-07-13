@@ -31,7 +31,6 @@ import retrofit.converter.GsonConverter;
 
 
 /**
- * This class isn't completely. It is for test and show a list of users.
  * Created by mshahini on 13.07.2015.
  */
 public class MainActivity extends Activity {

@@ -10,7 +10,6 @@ import com.appwithkotlin.mshahini.wirestormapplication.R;
 import com.squareup.picasso.Picasso;
 
 /**
- * This class isn't completely. It is for test and show a picture.
  * Created by mshahini on 13.07.2015.
  */
 public class UserProfileActivity extends Activity {
